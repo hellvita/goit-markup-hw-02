@@ -8,8 +8,15 @@ body {
     font-size: 18px;
     line-height: 1.167;
     text-transform: uppercase;
-    color: #2E2F42;
     text-decoration: none;
+}
+
+.page-header .company-logo {
+    color: #2E2F42;
+}
+
+.page-footer .company-logo {
+    color: #F4F4FD;
 }
 
 .company-logo em {
@@ -36,7 +43,7 @@ body {
 .page-title {
     font-size: 56px;
     line-height: 1.07;
-    /*color: #fff;*/
+    color: #fff
 }
 
 #order-button {
@@ -64,7 +71,7 @@ body {
 }
 
 .footer-text {
-    /*color: #F4F4FD;*/
+    color: #F4F4FD;
 }
 
 .section-title {
@@ -75,4 +82,21 @@ body {
 
 ul {
     list-style-type: none;
+}
+
+.dark-bg {
+    background-color: #2E2F42;
+}
+
+main .dark-bg {
+    height: 600px;
+}
+
+.page-footer .dark-bg {
+    height: 312px;
+}
+
+.light-bg {
+    background-color: #F4F4FD;
+    /*height: 732px;*/
 }
