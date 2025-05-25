@@ -50,3 +50,25 @@ body {
     line-height: 1.5;
 }
 
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.section-text,
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.footer-text {
+    /*color: #F4F4FD;*/
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+}
