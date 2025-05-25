@@ -46,6 +46,10 @@ body {
     color: #fff
 }
 
+button {
+    cursor: pointer;
+}
+
 #order-button {
     width: 169px;
     height: 56px;
@@ -55,6 +59,16 @@ body {
     color: #fff;
     font-size: 16px;
     line-height: 1.5;
+}
+
+#order-button:hover,
+#order-button:focus {
+    background-color: #404BBF;
+}
+
+.link:hover,
+.link:focus {
+    color: #4D5AE5;
 }
 
 .title {
@@ -99,15 +113,4 @@ main .dark-bg {
 .light-bg {
     background-color: #F4F4FD;
     /*height: 732px;*/
-}
-
-
-.link:hover,
-.link:focus {
-    color: #4D5AE5;
-}
-
-#order-button:hover,
-#order-button:focus {
-    background-color: #404BBF;
 }
