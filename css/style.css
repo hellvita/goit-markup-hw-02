@@ -2,3 +2,33 @@ body {
     font-family: 'Roboto', 'Helvetica Neue', 'Verdana', 'Tahoma', sans-serif;
     color: #2E2F42;
 }
+
+.company-logo {
+    font-family: 'Raleway';
+    font-size: 18px;
+    line-height: 1.167;
+    text-transform: uppercase;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.company-logo em {
+    font-style: normal;
+    color: #4D5AE5;
+}
+
+.page-nav .link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.company-contacts .link {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    text-decoration: none;
+    font-style: normal;
+}
