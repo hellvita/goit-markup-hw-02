@@ -100,3 +100,14 @@ main .dark-bg {
     background-color: #F4F4FD;
     /*height: 732px;*/
 }
+
+
+.link:hover,
+.link:focus {
+    color: #4D5AE5;
+}
+
+#order-button:hover,
+#order-button:focus {
+    background-color: #404BBF;
+}
