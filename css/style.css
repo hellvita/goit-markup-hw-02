@@ -10,7 +10,6 @@ body {
   font-size: 18px;
   line-height: 1.167;
   text-transform: uppercase;
-  text-decoration: none;
 }
 
 .page-header .company-logo {
@@ -29,13 +28,11 @@ body {
   font-size: 16px;
   font-weight: 500;
   color: #2e2f42;
-  text-decoration: none;
 }
 
 .company-contacts .link {
   font-size: 16px;
   color: #434455;
-  text-decoration: none;
   font-style: normal;
 }
 
@@ -93,6 +90,10 @@ button {
 
 ul {
   list-style-type: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 .dark-bg {
