@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", "Helvetica Neue", "Verdana", "Tahoma", sans-serif;
   color: #2e2f42;
+  line-height: 1.5;
 }
 
 .company-logo {
@@ -26,14 +27,12 @@ body {
 .page-nav .link {
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5;
   color: #2e2f42;
   text-decoration: none;
 }
 
 .company-contacts .link {
   font-size: 16px;
-  line-height: 1.5;
   color: #434455;
   text-decoration: none;
   font-style: normal;
@@ -58,7 +57,6 @@ button {
   background-color: #4d5ae5;
   color: #fff;
   font-size: 16px;
-  line-height: 1.5;
 }
 
 .btn-primary:hover,
@@ -80,7 +78,6 @@ button {
 .section-text,
 .footer-text {
   font-size: 16px;
-  line-height: 1.5;
   color: #434455;
 }
 
