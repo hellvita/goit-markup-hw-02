@@ -1,116 +1,116 @@
 body {
-    font-family: 'Roboto', 'Helvetica Neue', 'Verdana', 'Tahoma', sans-serif;
-    color: #2E2F42;
+  font-family: "Roboto", "Helvetica Neue", "Verdana", "Tahoma", sans-serif;
+  color: #2e2f42;
 }
 
 .company-logo {
-    font-family: 'Raleway';
-    font-size: 18px;
-    line-height: 1.167;
-    text-transform: uppercase;
-    text-decoration: none;
+  font-family: "Raleway";
+  font-size: 18px;
+  line-height: 1.167;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 .page-header .company-logo {
-    color: #2E2F42;
+  color: #2e2f42;
 }
 
 .page-footer .company-logo {
-    color: #F4F4FD;
+  color: #f4f4fd;
 }
 
 .company-logo span {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 .page-nav .link {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2E2F42;
-    text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e2f42;
+  text-decoration: none;
 }
 
 .company-contacts .link {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
-    text-decoration: none;
-    font-style: normal;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
 }
 
 .page-title {
-    font-size: 56px;
-    line-height: 1.07;
-    color: #fff
+  font-size: 56px;
+  line-height: 1.07;
+  color: #fff;
 }
 
 button {
-    cursor: pointer;
+  cursor: pointer;
 }
 
-#order-button {
-    width: 169px;
-    height: 56px;
-    padding: 16px 32px 16px 32px;
-    border: none;
-    border-radius: 4px;
-    background-color: #4D5AE5;
-    color: #fff;
-    font-size: 16px;
-    line-height: 1.5;
+#btn-primary {
+  width: 169px;
+  height: 56px;
+  padding: 16px 32px 16px 32px;
+  border: none;
+  border-radius: 4px;
+  background-color: #4d5ae5;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
-#order-button:hover,
-#order-button:focus {
-    background-color: #404BBF;
+#btn-primary:hover,
+#btn-primary:focus {
+  background-color: #404bbf;
 }
 
 .link:hover,
 .link:focus {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 .title {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
 }
 
 .section-text,
 .footer-text {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
 }
 
 .footer-text {
-    color: #F4F4FD;
+  color: #f4f4fd;
 }
 
 .section-title {
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 1.11;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .dark-bg {
-    background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 
 main .dark-bg {
-    height: 600px;
+  height: 600px;
 }
 
 .page-footer .dark-bg {
-    height: 312px;
+  height: 312px;
 }
 
 .light-bg {
-    background-color: #F4F4FD;
-    /*height: 732px;*/
+  background-color: #f4f4fd;
+  /*height: 732px;*/
 }
