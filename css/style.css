@@ -100,15 +100,18 @@ a {
   background-color: #2e2f42;
 }
 
-main .dark-bg {
+/* .section-title .dark-bg {
   height: 600px;
 }
 
 .page-footer .dark-bg {
   height: 312px;
-}
+} */
 
 .light-bg {
   background-color: #f4f4fd;
-  /* height: 732px; */
 }
+
+/* .section-our-team .light-bg {
+  height: 732px;
+} */
