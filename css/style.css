@@ -1,6 +1,6 @@
 body {
-  font-family: "Roboto", "Helvetica Neue", "Verdana", "Tahoma", sans-serif;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
   background-color: #fff;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -34,7 +34,6 @@ body {
 
 .company-contacts .link {
   font-size: 16px;
-  color: #434455;
   font-style: normal;
 }
 
@@ -49,11 +48,6 @@ button {
 }
 
 .btn-primary {
-  width: 169px;
-  height: 56px;
-  padding: 16px 32px 16px 32px;
-  border: none;
-  border-radius: 4px;
   background-color: #4d5ae5;
   color: #fff;
   font-size: 16px;
@@ -79,7 +73,6 @@ button {
 .section-text,
 .footer-text {
   font-size: 16px;
-  color: #434455;
 }
 
 .footer-text {
@@ -103,18 +96,6 @@ a {
   background-color: #2e2f42;
 }
 
-/* .section-title .dark-bg {
-  height: 600px;
-}
-
-.page-footer .dark-bg {
-  height: 312px;
-} */
-
 .light-bg {
   background-color: #f4f4fd;
 }
-
-/* .section-our-team .light-bg {
-  height: 732px;
-} */
