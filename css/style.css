@@ -16,15 +16,11 @@ body {
   color: #4d5ae5;
 }
 
-.logo-spec-part {
+.header-logo-spec-part {
   color: #2e2f42;
 }
 
-.page-header .company-logo {
-  color: #2e2f42;
-}
-
-.page-footer .company-logo {
+.footer-logo-spec-part {
   color: #f4f4fd;
 }
 
@@ -103,7 +99,8 @@ a {
   text-decoration: none;
 }
 
-.section-page-title {
+.section-page-title,
+.page-footer {
   background-color: #2e2f42;
 }
 
