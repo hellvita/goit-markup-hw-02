@@ -90,6 +90,7 @@ button {
 .section-title {
   font-size: 36px;
   line-height: 1.11;
+  color: #2e2f42;
 }
 
 ul {
@@ -100,7 +101,7 @@ a {
   text-decoration: none;
 }
 
-.section-main-title {
+.section-page-title {
   background-color: #2e2f42;
 }
 
