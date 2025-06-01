@@ -8,10 +8,16 @@ body {
 
 .company-logo {
   font-family: "Raleway";
+  font-weight: 700;
   font-size: 18px;
-  line-height: 1.167;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo-spec-part {
+  color: #2e2f42;
 }
 
 .page-header .company-logo {
@@ -20,10 +26,6 @@ body {
 
 .page-footer .company-logo {
   color: #f4f4fd;
-}
-
-.company-logo span {
-  color: #4d5ae5;
 }
 
 .page-nav .link {
