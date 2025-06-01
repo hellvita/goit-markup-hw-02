@@ -91,6 +91,8 @@ button {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 ul {
@@ -107,4 +109,8 @@ a {
 
 .section-our-team {
   background-color: #f4f4fd;
+}
+
+.feature-first {
+  background-color: #fff;
 }
