@@ -27,6 +27,7 @@ body {
   font-size: 16px;
   font-weight: 500;
   color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 
 address {
@@ -36,6 +37,7 @@ address {
 .company-contacts-list .link {
   font-size: 16px;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .page-title {
