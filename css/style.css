@@ -3,6 +3,7 @@ body {
   color: #434455;
   background-color: #fff;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .logo {
@@ -31,7 +32,7 @@ body {
   font-size: 16px;
   font-weight: 500;
   color: #2e2f42;
-  letter-spacing: 0.02em;
+  letter-spacing: inherit;
 }
 
 address {
@@ -41,7 +42,7 @@ address {
 .link.link--contacts {
   font-size: 16px;
   color: #434455;
-  letter-spacing: 0.02em;
+  letter-spacing: inherit;
 }
 
 .hero__title {
@@ -49,7 +50,7 @@ address {
   line-height: 1.07;
   color: #fff;
   text-align: center;
-  letter-spacing: 0.02em;
+  letter-spacing: inherit;
 }
 
 button {
@@ -79,14 +80,14 @@ button {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02em;
+  letter-spacing: inherit;
   color: #2e2f42;
 }
 
 .item-text,
 .footer__text {
   font-size: 16px;
-  letter-spacing: 0.02em;
+  letter-spacing: inherit;
 }
 
 .footer__text {
@@ -99,7 +100,7 @@ button {
   color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
-  letter-spacing: 0.02em;
+  letter-spacing: inherit;
 }
 
 ul {
