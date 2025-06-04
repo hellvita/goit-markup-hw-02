@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
 }
 
-.company-logo {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -15,15 +15,19 @@ body {
   color: #4d5ae5;
 }
 
-.header-logo-spec-part {
+.logo__highlight {
+  font-weight: inherit;
+}
+
+.logo__highlight--header {
   color: #2e2f42;
 }
 
-.footer-logo-spec-part {
+.logo__highlight--footer {
   color: #f4f4fd;
 }
 
-.page-nav-list .link {
+.link.link--nav {
   font-size: 16px;
   font-weight: 500;
   color: #2e2f42;
@@ -34,13 +38,13 @@ address {
   font-style: normal;
 }
 
-.company-contacts-list .link {
+.link.link--contacts {
   font-size: 16px;
   color: #434455;
   letter-spacing: 0.02em;
 }
 
-.page-title {
+.hero__title {
   font-size: 56px;
   line-height: 1.07;
   color: #fff;
@@ -52,7 +56,7 @@ button {
   cursor: pointer;
 }
 
-.btn-primary {
+.hero__button {
   background-color: #4d5ae5;
   color: #fff;
   font-size: 16px;
@@ -60,8 +64,8 @@ button {
   font-weight: 500;
 }
 
-.btn-primary:hover,
-.btn-primary:focus {
+.hero__button:hover,
+.hero__button:focus {
   background-color: #404bbf;
 }
 
@@ -70,7 +74,7 @@ button {
   color: #404bbf;
 }
 
-.li-title {
+.title-item {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -78,17 +82,17 @@ button {
   color: #2e2f42;
 }
 
-.section-text,
+.item-text,
 .footer-text {
   font-size: 16px;
   letter-spacing: 0.02em;
 }
 
-.footer-text {
+.footer__text {
   color: #f4f4fd;
 }
 
-.section-title {
+.title-section {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
@@ -105,15 +109,15 @@ a {
   text-decoration: none;
 }
 
-.section-page-title,
-.page-footer {
+.hero,
+.footer {
   background-color: #2e2f42;
 }
 
-.section-our-team {
+.team {
   background-color: #f4f4fd;
 }
 
-.team-card {
+.team__card {
   background-color: #fff;
 }
